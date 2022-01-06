@@ -1,2 +1,8 @@
 # snakemake_tests
-Test snakemake
+Test snakemake on UFRC
+```
+ml snakemake
+```
+```
+snakemake -j1
+```
