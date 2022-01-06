@@ -1,3 +1,6 @@
+# Things specific to this repo
+.snakemake/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
